@@ -52,3 +52,4 @@ finally:
     consumer.close()
     print("🔒 Kafka Consumer closed successfully.")# Refactor Kafka producer functions
 # Update pipeline architecture diagram
+# Fix consumer crash on empty messages
