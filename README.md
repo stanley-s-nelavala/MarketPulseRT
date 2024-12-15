@@ -60,3 +60,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 # Handle JSON decoding errors
 # Improve shutdown sequence
 # Add KafkaProducer notebook examples
+# Simulate stock data feed for testing
