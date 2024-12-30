@@ -56,3 +56,4 @@ finally:
     print("🔒 Kafka Consumer closed successfully.")# Add logging to consumer script
 # Optimize consumer loop
 # Add unit tests for core functions
+# Final project cleanup
