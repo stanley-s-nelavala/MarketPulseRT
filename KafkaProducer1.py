@@ -62,3 +62,4 @@ finally:
 # Add heartbeat messages to producer
 # Document Kafka consumer startup sequence
 # Refactor shared utilities
+# Improve comments and documentation
