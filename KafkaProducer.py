@@ -39,3 +39,4 @@ finally:
     producer.close()# Fix bug in message serialization
 # Implement message retry mechanism
 # Update LICENSE
+# Enhance topic subscription logic
