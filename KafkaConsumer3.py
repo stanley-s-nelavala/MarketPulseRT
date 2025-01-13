@@ -54,3 +54,4 @@ except KeyboardInterrupt:
 finally:
     consumer.close()
     print("🔒 Kafka Consumer closed successfully.")# Add logging to consumer script
+# Optimize consumer loop
