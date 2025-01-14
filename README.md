@@ -1,6 +1,3 @@
-**Author:** Stanley Sujith Nelavala
-
---------------------------------------------------------------------------------
 # Real-Time Stock Market Data Pipeline
 
 ## Introduction
@@ -57,7 +54,4 @@ Using stock market data that is randomly selected from the stockmarket_data.csv 
 ## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-# Handle JSON decoding errors
-# Improve shutdown sequence
-# Add KafkaProducer notebook examples
-# Simulate stock data feed for testing
+
