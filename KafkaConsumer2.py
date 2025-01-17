@@ -54,3 +54,4 @@ except KeyboardInterrupt:
 finally:
     consumer.close()
     print("🔒 Kafka Consumer closed successfully.")# Add error handling to Kafka producer
+# Add environment variables support
