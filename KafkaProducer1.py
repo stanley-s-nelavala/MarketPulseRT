@@ -60,3 +60,4 @@ finally:
 # Integrate Kafka with AWS S3 storage
 # Improve modularization of producer code
 # Add heartbeat messages to producer
+# Document Kafka consumer startup sequence
