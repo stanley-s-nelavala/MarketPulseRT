@@ -56,3 +56,4 @@ finally:
     print("🔒 Kafka Consumer closed successfully.")# Add error handling to Kafka producer
 # Add environment variables support
 # Add debug flags and CLI arguments
+# Fix dead-letter topic config
