@@ -59,3 +59,4 @@ Using stock market data that is randomly selected from the stockmarket_data.csv 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 # Handle JSON decoding errors
 # Improve shutdown sequence
+# Add KafkaProducer notebook examples
