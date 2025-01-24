@@ -40,3 +40,4 @@ finally:
 # Implement message retry mechanism
 # Update LICENSE
 # Enhance topic subscription logic
+# Update schema structure in consumer
