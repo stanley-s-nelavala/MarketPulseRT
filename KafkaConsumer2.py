@@ -57,3 +57,4 @@ finally:
 # Add environment variables support
 # Add debug flags and CLI arguments
 # Fix dead-letter topic config
+# Update README with usage examples
