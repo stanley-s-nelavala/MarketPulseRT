@@ -58,3 +58,4 @@ finally:
     producer.close()
     print("🔒 Kafka Producer closed successfully.")# Update README with architecture overview
 # Integrate Kafka with AWS S3 storage
+# Improve modularization of producer code
