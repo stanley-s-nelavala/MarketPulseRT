@@ -37,3 +37,4 @@ except KeyboardInterrupt:
 finally:
     producer.flush()  # Ensure all messages are sent
     producer.close()# Fix bug in message serialization
+# Implement message retry mechanism
